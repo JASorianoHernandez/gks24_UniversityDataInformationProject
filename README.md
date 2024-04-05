@@ -1,5 +1,5 @@
 ### Hi there 👋, Hello this is the gks 2024 dashboard project
-#### Probably you checked the dashboard for gks students. But maybe you will be more intersting in how.
+#### Probably you checked the dashboard for gks students. But maybe you will be more intersting in how was built, right?/그지요?.
 ![Probably you checked the dashboard for gks students. But maybe you will be more intersting in how.](https://github.com/JASorianoHernandez/gks24_UniversityDataInformationProject/blob/main/images/gks24UniversitiyInformationBanner1.png)
 
 I am excited to present my Tableau dashboard, "Empowering Education: Insights from University Information," as part of my scholarship application. This dashboard showcases my data visualization skills and passion for leveraging data to drive meaningful insights in the education sector.
@@ -7,6 +7,8 @@ I am excited to present my Tableau dashboard, "Empowering Education: Insights fr
 ### Using programming languages with a possitive attitude, everything is possible!!
 
 ![Using programming languages with a possitive attitude, everything is possible!!](https://github.com/JASorianoHernandez/gks24_UniversityDataInformationProject/blob/main/images/gks24UniversitiyInformationBanner2.png)
+
+Of course the core of the project is the python file, and you can access for free in the file called ***"GKS24_Univeristies_DataInformation.ipynb"*** here in this same repository, or simply [click here!](https://github.com/JASorianoHernandez/gks24_UniversityDataInformationProject/blob/main/GKS24_Univeristies_DataInformation.ipynb) and you can check all the ETL flow!!.
 
 I am thrilled to share insights from my dashboard, which is a culmination of data extracted from the "2024 GKS-G University Information(final).zip" file. Leveraging Python, I meticulously processed this data into structured tables, which are now securely stored in a MySQL database. The dashboard, crafted with precision and care, is hosted on Tableau Public, allowing for easy access and interaction. My primary goal in creating this dashboard is to assist fellow applicants by providing valuable insights and actionable information. I am deeply motivated to contribute positively to our community and am eager to utilize my skills to make a meaningful impact, making this scholarship an invaluable opportunity for me to achieve that goal.
 
