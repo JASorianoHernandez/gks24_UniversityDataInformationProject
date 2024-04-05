@@ -4,6 +4,11 @@
 
 I am excited to present my Tableau dashboard, "Empowering Education: Insights from University Information," as part of my scholarship application. This dashboard showcases my data visualization skills and passion for leveraging data to drive meaningful insights in the education sector.
 
+![Using programming languages with a possitive attitude, everything is possible!!]
+(https://github.com/JASorianoHernandez/gks24_UniversityDataInformationProject/blob/main/images/gks24UniversitiyInformationBanner2.png)
+
+I am thrilled to share insights from my dashboard, which is a culmination of data extracted from the "2024 GKS-G University Information(final).zip" file. Leveraging Python, I meticulously processed this data into structured tables, which are now securely stored in a MySQL database. The dashboard, crafted with precision and care, is hosted on Tableau Public, allowing for easy access and interaction. My primary goal in creating this dashboard is to assist fellow applicants by providing valuable insights and actionable information. I am deeply motivated to contribute positively to our community and am eager to utilize my skills to make a meaningful impact, making this scholarship an invaluable opportunity for me to achieve that goal.
+
 Skills: Python / MySql / Tableau 
 
 - 🔭 I’m currently working on this page. 
