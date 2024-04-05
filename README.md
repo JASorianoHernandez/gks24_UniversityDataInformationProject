@@ -1,5 +1,5 @@
 ### Hi there 👋, Hello this is the gks 2024 dashboard project
-#### Probably you checked the [dashboard for gks students](https://public.tableau.com/app/profile/jorge.soriano/viz/gks24UniversitiyInformation/FinalDashboard). But maybe you will be more intersting in how was built, right?/그지요?.
+#### Probably you checked the dashboard for gks aspirants called [gks24 Universitiy Information](https://public.tableau.com/app/profile/jorge.soriano/viz/gks24UniversitiyInformation/FinalDashboard). But maybe you will be more intersting in how was built, right?/그지요?.
 ![Probably you checked the dashboard for gks students. But maybe you will be more intersting in how.](https://github.com/JASorianoHernandez/gks24_UniversityDataInformationProject/blob/main/images/gks24UniversitiyInformationBanner1.png)
 
 I am excited to present my Tableau dashboard, "Empowering Education: Insights from University Information," as part of my scholarship application. This dashboard showcases my data visualization skills and passion for leveraging data to drive meaningful insights in the education sector.
