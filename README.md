@@ -12,7 +12,7 @@ I am thrilled to share insights from my dashboard, which is a culmination of dat
 
 Skills: Python / MySql / Tableau 
 
-- 🔭 I’m currently working on this page. 
+All the information presented here is sourced from the [gks official website](https://www.studyinkorea.go.kr/ko/scholarship/Gks1NoticeDetail.do?nttId=4135)!. This dashboard is an informational resource. All rights to the data belong to their respective owners, Study in Korea and the Korean Government. Latitude and longitude data points for the province map were obtained from [open data soft page](https://data.opendatasoft.com/explore/dataset/geonames-postal-code%40public/export/?refine.country_code=KR), with non-profit use in mind.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JASorianoHernandez)  
